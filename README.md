@@ -10,7 +10,7 @@
 #  𝑨𝒃𝒐𝒖𝒕 𝑴𝒆 ... <img align="center" src="https://user-images.githubusercontent.com/106914208/213806625-795bf34c-ff4c-47ec-a094-c2b538209d9e.gif" width="30" />
 - 🏦 I'm currently working as a **Backend Developer** ...
 - 🌱 I’m currently learning **MERN Stack** ...
-- 🔭 I’m currently working on: **React Js**
+- 🔭 I’m currently working on: **Java|SpringBoot**
 - 💬 Talk to me about **JAVA, JavaScript, React, ...**
 - 😄 I’m looking to collaborate on **Open-Source Projects ...**
 - ♟ We can connect to play some **Cricket ....** 
