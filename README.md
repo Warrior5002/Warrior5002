@@ -32,7 +32,7 @@
 ---
 
 # 𝐶𝑜𝑛𝑛𝑒𝑐𝑡 𝑊𝑖𝑡ℎ 𝑀𝑒 !<img align="center" src="https://user-images.githubusercontent.com/106914208/213799858-a190b73c-4c67-41af-ade4-028f34ac1611.gif" width="100">
-| [<img src="https://user-images.githubusercontent.com/106914208/213802271-4489309a-a739-46ad-8c1d-d93e64a3f14b.svg" alt="Linkedin Logo" width="32">](https://www.linkedin.com/in/akash-bisoyi-0905a41a9) | [<img src="https://user-images.githubusercontent.com/106914208/213802286-054522d7-e3c7-4946-841d-b48ac53dee53.svg" alt="instagram logo" width="32">](https://www.instagram.com/bisoyi8761/) |[<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white" height="32">] |
- [<img src="https://user-images.githubusercontent.com/106914208/213802308-803c66fd-b3da-4f55-a0ab-1a82edf22ce7.svg" alt="Gmail logo" height="32">](mailto:abisoyi472@gmail.com)|
+|  [<img src="https://user-images.githubusercontent.com/106914208/213802308-803c66fd-b3da-4f55-a0ab-1a82edf22ce7.svg" alt="Gmail logo" height="34">](mailto:abisoyi472@gmail.com)|[<img src="https://user-images.githubusercontent.com/106914208/213802271-4489309a-a739-46ad-8c1d-d93e64a3f14b.svg" alt="Linkedin Logo" width="32">](https://www.linkedin.com/in/akash-bisoyi-0905a41a9) | [<img src="https://user-images.githubusercontent.com/106914208/213802286-054522d7-e3c7-4946-841d-b48ac53dee53.svg" alt="instagram logo" width="32">](https://www.instagram.com/bisoyi8761/) |[<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white" height="32">](https://twitter.com/AkashBisoy5002) |
+
 
 
