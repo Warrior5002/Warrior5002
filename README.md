@@ -13,7 +13,7 @@
 - 🔭 I’m currently working on: **Java|SpringBoot**
 - 💬 Talk to me about **JAVA, JavaScript, React, ...**
 - 😄 I’m looking to collaborate on **Open-Source Projects ...**
-- ♟ We can connect to play some **Cricket ....** 
+- ♟ We can connect to play some **Chess ....** 
 - 💻 **Tech I work on :**
 
 ![Html](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
